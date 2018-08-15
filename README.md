@@ -1,2 +1,3 @@
 # hello-world
-My first test repository
+
+Hello, I am Leah and I am a student developer.
